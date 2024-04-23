@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="26.434 59.056 447.694 403.824" width="447.694" height="403.824" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <rect x="61.305" y="82.677" width="139.483" height="20.247" style="stroke: rgb(0, 0, 0); fill: rgb(240, 0, 0); transform-origin: 131.046px 92.8005px;" transform="matrix(0.969725131989, 0.244198024273, -0.244198024273, 0.969725131989, -5.061898827335, 14.623105492371)"/>
+  <rect x="304.837" y="78.74" width="146.794" height="21.935" style="stroke: rgb(0, 0, 0); fill: rgb(240, 0, 0); transform-origin: 378.234px 89.7075px;" transform="matrix(0.946334004402, 0.323191016912, -0.323191016912, 0.946334004402, -3.936912032754, 24.746912490184)"/>
+  <rect x="140.045" y="255.343" width="196.85" height="29.246" style="stroke: rgb(0, 0, 0); fill: rgb(255, 0, 0); transform-origin: 238.47px 269.966px;" transform="matrix(0.991254925728, 0.13195797801, -0.13195797801, 0.991254925728, -12.373508443374, 65.804173472034)"/>
+  <path d="M 223.285 349.269 L 246.907 462.88 L 199.663 462.88 L 223.285 349.269 Z" style="stroke: rgb(0, 0, 0); fill: rgb(0, 236, 83);" bx:shape="triangle 199.663 349.269 47.244 113.611 0.5 0 1@880863dc"/>
+  <path d="M 369.235 122.048 L 391.451 228.91 L 347.019 228.91 L 369.235 122.048 Z" style="stroke: rgb(0, 0, 0); fill: rgb(239, 233, 5);" bx:shape="triangle 347.019 122.048 44.432 106.862 0.5 0 1@5f529a9d"/>
+  <path d="M 118.673 113.611 L 144.545 236.221 L 92.801 236.221 L 118.673 113.611 Z" style="stroke: rgb(0, 0, 0); fill: rgb(35, 5, 231);" bx:shape="triangle 92.801 113.611 51.744 122.61 0.5 0 1@4a901020"/>
+  <path d="M 54.837 60.18 L 69.039 63.985 L 79.435 74.382 L 83.24 88.583 L 79.435 102.785 L 69.039 113.181 L 54.837 116.986 L 40.635 113.181 L 30.239 102.785 L 26.434 88.583 L 30.239 74.381 L 40.635 63.985 Z" style="stroke: rgb(0, 0, 0); transform-origin: 54.837px 88.583px;" bx:shape="n-gon 54.837 88.583 28.403 28.403 12 0 1@9dae8108">
+    <animateTransform type="rotate" additive="sum" attributeName="transform" values="0;360;0" begin="0s" dur="10s" fill="freeze" repeatCount="indefinite" keyTimes="0; 0.5; 1"/>
+  </path>
+  <path d="M 195.726 93.926 L 210.912 97.995 L 222.028 109.111 L 226.097 124.297 L 222.028 139.483 L 210.912 150.599 L 195.726 154.668 L 180.54 150.599 L 169.424 139.483 L 165.355 124.297 L 169.424 109.111 L 180.54 97.995 Z" style="stroke: rgb(0, 0, 0); transform-origin: 195.726px 124.297px;" bx:shape="n-gon 195.726 124.297 30.371 30.371 12 0 1@48a2b609">
+    <animateTransform type="rotate" additive="sum" attributeName="transform" values="0;360;0" begin="0s" dur="10s" fill="freeze" repeatCount="indefinite" keyTimes="0; 0.591667; 1"/>
+  </path>
+  <path d="M 301.462 59.056 L 316.085 62.974 L 326.79 73.679 L 330.708 88.302 L 326.79 102.925 L 316.085 113.63 L 301.462 117.548 L 286.839 113.63 L 276.134 102.925 L 272.216 88.302 L 276.134 73.679 L 286.839 62.974 Z" style="stroke: rgb(0, 0, 0); transform-origin: 301.462px 88.302px;" bx:shape="n-gon 301.462 88.302 29.246 29.246 12 0 1@b4aa7fb1">
+    <animateTransform type="rotate" additive="sum" attributeName="transform" values="0;360;0" begin="0s" dur="10s" fill="freeze" repeatCount="indefinite" keyTimes="0; 0.6; 1"/>
+  </path>
+  <path d="M 446.288 104.612 L 460.208 108.342 L 470.398 118.532 L 474.128 132.452 L 470.398 146.372 L 460.208 156.562 L 446.288 160.292 L 432.368 156.562 L 422.178 146.372 L 418.448 132.452 L 422.178 118.532 L 432.368 108.342 Z" style="stroke: rgb(0, 0, 0); transform-origin: 446.288px 132.452px;" bx:shape="n-gon 446.288 132.452 27.84 27.84 12 0 1@10644970">
+    <animateTransform type="rotate" additive="sum" attributeName="transform" values="0;360;0" begin="0s" dur="10s" fill="freeze" repeatCount="indefinite" keyTimes="0; 0.666667; 1"/>
+  </path>
+  <path d="M 125.422 288.526 L 142.295 293.047 L 154.647 305.399 L 159.168 322.272 L 154.647 339.145 L 142.295 351.497 L 125.422 356.018 L 108.549 351.497 L 96.197 339.145 L 91.676 322.272 L 96.197 305.399 L 108.549 293.047 Z" style="stroke: rgb(0, 0, 0); transform-origin: 125.422px 322.272px;" bx:shape="n-gon 125.422 322.272 33.746 33.746 12 0 1@b20445bd">
+    <animateTransform type="rotate" additive="sum" attributeName="transform" values="0;360;0" dur="10s" fill="freeze" repeatCount="indefinite" keyTimes="0; 0; 1"/>
+  </path>
+  <path d="M 325.928 316.648 L 342.942 321.207 L 355.396 333.662 L 359.955 350.675 L 355.396 367.689 L 342.942 380.143 L 325.928 384.702 L 308.915 380.143 L 296.46 367.689 L 291.901 350.675 L 296.46 333.662 L 308.915 321.207 Z" style="stroke: rgb(0, 0, 0); transform-origin: 325.928px 350.675px;" bx:shape="n-gon 325.928 350.675 34.027 34.027 12 0 1@c2f1480d">
+    <animateTransform type="rotate" additive="sum" attributeName="transform" values="0;360;0" begin="0s" dur="10s" fill="freeze" repeatCount="indefinite" keyTimes="0; 0.683333; 1"/>
+  </path>
+</svg>
